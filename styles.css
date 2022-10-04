@@ -181,6 +181,7 @@ body {
 .html-css {
   list-style: none;
   display: grid;
+  float: none;
   grid-template-columns: repeat(auto-fill, 50px);
   grid-gap: 10px;
   margin-left: -59px;
